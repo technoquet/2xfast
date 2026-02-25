@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://myflixer1.run/sitemap.xml
